@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+body{
+    margin: 0;
+    color: white;
+    font-family: arial,hevtica,sans-serif;
+}
+/* Navbar */
+.mynav{
+    padding-left: 4rem;
+    margin-left: -2rem;
+    margin-right: -0.8rem;
+    
+}
+
+.icon{
+    font-size: 2rem;
+}
+.mynav a {
+    font-size: 1.5rem;
+}
+.nav-content{
+    padding-right: 1.5rem;
+}
+.nav-content li{
+    padding: 0 10px;
+}
+
+/* Mid Container */
+.mid-container{
+    background-color: #171111;
+}
+img{
+    /* width: 60%; */
+    margin: 6rem 4rem 2rem 3rem;
+    height: 60%;
+    
+}
+/* form */
+.myform {
+    width: 60%;
+    background: white;
+    margin: 7rem auto;
+    color: black;
+    border-radius: 1%;
+
+}
+
+.label {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-weight: 400;
+}
+
+.form-control {
+    margin-left: 3rem;
+    width: 70%;
+}
+
+.btn {
+    -webkit-border-radius: 53;
+    -moz-border-radius: 53;
+    border-radius: 53px;
+    font-family: Arial;
+    color: #0d0b0d;
+    font-size: 19px;
+    background: #21ff08;
+    padding: 10px 40px 10px 40px;
+    width: 60%;
+    text-decoration: none;
+    margin: 2rem auto;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.btn:hover {
+    background: #6cfc3c;
+    text-decoration: none;
+    color: black;
+}
+
+.top{
+    padding-top: 2rem;
+}
+.tnc{
+    margin: 1rem auto;
+    width: 80%;
+    font-size: 0.7rem;
+}
+.tnc p a{
+    color: #21ff08;
+}
+
+/* bottom container */
+.bottom-container{
+    background-color: #0d0b0d;
+    color: white;
+}
+.logo{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
+.company{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    list-style: none;
+}
+.links{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    list-style: none;
+}
+.list li{
+    margin-left: -2rem;
+    
+    
+    list-style: none;
+}
